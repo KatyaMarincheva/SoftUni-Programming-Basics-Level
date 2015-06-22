@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Cinema", "01. Cinema\01. Cinema.csproj", "{260E52E4-A716-449A-829C-D2F0BD2508C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Illuminati", "02. Illuminati\02. Illuminati.csproj", "{7E81AE70-6A1A-4EBA-841A-94EF97E6B694}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. New-House", "03. New-House\03. New-House.csproj", "{57233F90-E3FF-4442-84DA-DE13B6EF259E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Crossing-Sequences", "04. Crossing-Sequences\04. Crossing-Sequences.csproj", "{4BDBF331-59D0-4975-8532-B6E558C1F681}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Catch-The-Bits", "05. Catch-The-Bits\05. Catch-The-Bits.csproj", "{9CAE33A9-8548-4F09-94FE-50936F6653F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Catch-The-Bits-2", "05. Catch-The-Bits-2\05. Catch-The-Bits-2.csproj", "{A1924FB8-413C-4BBA-AF0F-EFDA7AC71080}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{260E52E4-A716-449A-829C-D2F0BD2508C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{260E52E4-A716-449A-829C-D2F0BD2508C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{260E52E4-A716-449A-829C-D2F0BD2508C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{260E52E4-A716-449A-829C-D2F0BD2508C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E81AE70-6A1A-4EBA-841A-94EF97E6B694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E81AE70-6A1A-4EBA-841A-94EF97E6B694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E81AE70-6A1A-4EBA-841A-94EF97E6B694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E81AE70-6A1A-4EBA-841A-94EF97E6B694}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57233F90-E3FF-4442-84DA-DE13B6EF259E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57233F90-E3FF-4442-84DA-DE13B6EF259E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57233F90-E3FF-4442-84DA-DE13B6EF259E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57233F90-E3FF-4442-84DA-DE13B6EF259E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BDBF331-59D0-4975-8532-B6E558C1F681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BDBF331-59D0-4975-8532-B6E558C1F681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BDBF331-59D0-4975-8532-B6E558C1F681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BDBF331-59D0-4975-8532-B6E558C1F681}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CAE33A9-8548-4F09-94FE-50936F6653F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CAE33A9-8548-4F09-94FE-50936F6653F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CAE33A9-8548-4F09-94FE-50936F6653F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CAE33A9-8548-4F09-94FE-50936F6653F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1924FB8-413C-4BBA-AF0F-EFDA7AC71080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1924FB8-413C-4BBA-AF0F-EFDA7AC71080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1924FB8-413C-4BBA-AF0F-EFDA7AC71080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1924FB8-413C-4BBA-AF0F-EFDA7AC71080}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

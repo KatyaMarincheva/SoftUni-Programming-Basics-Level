@@ -1,0 +1,78 @@
+Problem 13. C# and .NET Differences
+•	Describe the difference between C# and .NET Framework in 2-3 sentences.
+•	Write your description in a text file called “csharp-and-dot-net-framework.txt”. Use English.
+
+C# is an elegant object-oriented language that enables developers to build a variety of 
+secure and robust applications that run on the .NET Framework. You can use C# to create 
+Windows client applications, XML Web services, distributed components, client-server applications,
+ database applications, and much, much more. Visual C# provides an advanced code editor, 
+convenient user interface designers, integrated debugger, and many other tools to make it easier
+ to develop applications based on the C# language and the .NET Framework.
+
+C# programs run on the .NET Framework, an integral component of Windows that includes 
+a virtual execution system called the common language runtime (CLR) 
+and a unified set of class libraries.
+
+.NET Framework is a software framework developed by Microsoft that runs primarily 
+on Microsoft Windows. It includes a large class library known as Framework Class Library (FCL) 
+and provides language interoperability (each language can use code written in other languages) 
+across several programming languages. Programs written for .NET Framework execute 
+in a software environment (as contrasted to hardware environment), 
+known as Common Language Runtime (CLR), an application virtual machine 
+that provides services such as security, memory management, and exception handling. 
+FCL and CLR together constitute .NET Framework.
+
+FCL provides user interface, data access, database connectivity, cryptography, 
+web application development, numeric algorithms, and network communications. 
+Programmers produce software by combining their own source code with .NET Framework and 
+other libraries. .NET Framework is intended to be used by most new applications 
+created for Windows platform. Microsoft also produces an integrated development environment 
+largely for .NET software called Visual Studio.
+
+An interesting illustration of the idea of C# programs running on the .NET Framework 
+is the relationship between the .NET data types, and the simple C# data types:
+
+The C# data types are considered simple data types. The simple data types are:
+sbyte, byte, short, ushort, int, uint, long, ulong, char, float, double, bool, and decimal.
+
+Each of these data types corresponds directly to a data type that the CLR uses. 
+Each of these types is considered simple because there is a direct relationship
+with the types available in the CLR and, thus, in the .NET Framework:
+
+C# Data Type	        .NET Data Type
+
+sbyte 			System.SByte
+byte 			System.Byte
+short 			System.Int16
+ushort 		        System.UInt16
+int 			System.Int32
+uint 			System.UInt32
+long 			System.Int64
+ulong 			System.UInt64
+char 			System.Char
+float 			System.Single
+double 		        System.Double
+bool 			System.Boolean
+decimal 		System.Decimal
+
+If you want to declare an integer using the .NET equivalent declaration - 
+even though there is no good reason to do so—you use the following:
+
+System.Int32 my_variable = 5;
+
+As you can see, System.Int32 is much more complicated than simply using int. 
+
+In our C# programs, we should use the simple data types rather than the .NET types.
+All the functionality of the .NET types is available to us 
+in the simpler commands that C# provides. However, we should understand that 
+the simple C# data types translate to .NET equivalents. 
+
+Other programming languages that work with the Microsoft .NET types also have data types 
+that translate to these .NET types.
+
+The Common Type System (CTS) is a set of rules that data types within the
+CLR must adhere to. The simple data types within C# adhere to these rules,
+as do the .NET data types. If a language follows the CTS in creating its data
+types, the data created and stored should be compatible with other programming
+languages that also follow the CTS.
+

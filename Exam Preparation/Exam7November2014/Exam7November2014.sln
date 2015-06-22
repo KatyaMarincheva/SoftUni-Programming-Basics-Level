@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Budget", "01. Budget\01. Budget.csproj", "{5B54E9F7-DA39-4FEB-8C8A-931650599632}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Odd-Or-Even-Counter", "02. Odd-Or-Even-Counter\02. Odd-Or-Even-Counter.csproj", "{1F38B2D9-7276-4EF3-A523-3539681EEE73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Plane", "03. Plane\03. Plane.csproj", "{AAAC27F1-A68A-40B1-82C4-9C9777694AC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Weird-Combinations", "04. Weird-Combinations\04. Weird-Combinations.csproj", "{2346B64D-2851-4EBF-968C-214372EB6C82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Bit-Swapper", "05. Bit-Swapper\05. Bit-Swapper.csproj", "{6EDA0589-0965-433B-BF5E-AE231B81D218}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Bit-Swapper -2", "05. Bit-Swapper -2\05. Bit-Swapper -2.csproj", "{BB378BC2-5184-48A2-A8E1-D75FEE44AA93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B54E9F7-DA39-4FEB-8C8A-931650599632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B54E9F7-DA39-4FEB-8C8A-931650599632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B54E9F7-DA39-4FEB-8C8A-931650599632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B54E9F7-DA39-4FEB-8C8A-931650599632}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F38B2D9-7276-4EF3-A523-3539681EEE73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F38B2D9-7276-4EF3-A523-3539681EEE73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F38B2D9-7276-4EF3-A523-3539681EEE73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F38B2D9-7276-4EF3-A523-3539681EEE73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAAC27F1-A68A-40B1-82C4-9C9777694AC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAAC27F1-A68A-40B1-82C4-9C9777694AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAAC27F1-A68A-40B1-82C4-9C9777694AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAAC27F1-A68A-40B1-82C4-9C9777694AC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2346B64D-2851-4EBF-968C-214372EB6C82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2346B64D-2851-4EBF-968C-214372EB6C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2346B64D-2851-4EBF-968C-214372EB6C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2346B64D-2851-4EBF-968C-214372EB6C82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EDA0589-0965-433B-BF5E-AE231B81D218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EDA0589-0965-433B-BF5E-AE231B81D218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EDA0589-0965-433B-BF5E-AE231B81D218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EDA0589-0965-433B-BF5E-AE231B81D218}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB378BC2-5184-48A2-A8E1-D75FEE44AA93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB378BC2-5184-48A2-A8E1-D75FEE44AA93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB378BC2-5184-48A2-A8E1-D75FEE44AA93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB378BC2-5184-48A2-A8E1-D75FEE44AA93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

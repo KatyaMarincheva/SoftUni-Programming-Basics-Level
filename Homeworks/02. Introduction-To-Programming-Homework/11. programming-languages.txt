@@ -1,0 +1,57 @@
+Problem 11. Programming Languages
+Perform a research (e.g. in Google or Wikipedia) and provide a short list with information 
+about the most popular programming languages. How similar are they to C#? 
+How do they differ from C#?
+Write in a text file called “programming-languages.txt” at least five languages 
+along with 2-3 sentences about each of them. Use English.
+
+1.	C# vs Java
+
+C# is intended to be a simple, modern, general-purpose, object-oriented (class-based)
+programming language. It was developed by Microsoft within its .NET  initiative. 
+C# is one of the programming languages designed for the Common Language Infrastructure.
+
+Java is a general-purpose computer programming language that is class-based, object-oriented, 
+and specifically designed to have as few implementation dependencies as possible. 
+It is intended to let application developers "write once, run anywhere" (WORA).
+
+Java and C# are similar programming languages that are class-based object-oriented, 
+both are designed with semi-interpretation or runtime compilation in mind, 
+both use garbage-collection, and both are "curly brace languages" like C and C++.
+
+2.	C# vs C/C++
+
+C++ is a general-purpose programming language. It has object-oriented and 
+generic programming features, while also providing the facilities for 
+low-level memory manipulation. C/C++ compiles to native (machine) code optimized 
+for a specific processor/architecture. 
+It's a language made specifically for high performance/real time applications.
+
+3.	C# vs Visual Basic
+
+Though C# and VB.NET are syntactically very different, that is where the differences mostly end. 
+Microsoft developed both of these languages to be part of the same .NET Framework development 
+platform.   They compile to the same intermediate language (IL), which runs against the same 
+.NET Framework runtime libraries. Their differences are primarily syntactic and 
+almost every command in VB has an equivalent command in C# and vice versa. 
+Lastly, both languages reference the same Base Classes of the .NET Framework 
+to extend their functionality. As a result, with few exceptions, 
+a program written in either language can be run through a simple syntax converter 
+to translate to the other.
+
+4.	C# vs PHP
+
+PHP: Hypertext Preprocessor, is a server-side scripting language designed for web development
+ but also used as a general-purpose programming language. 
+PHP is compiled down to an intermediate bytecode that is then interpreted by the runtime engine.
+
+According to The Comparison Wiki, C# offers better performance than PHP, 
+far better API (application programming interface), and unlike PHP supports safe casting.
+
+5.	C# vs JavaScript
+
+JavaScript is most commonly used as part of web browsers, 
+whose implementations allow client-side scripts to interact with the user, 
+control the browser, communicate asynchronously, and alter the document content that is displayed. It is also used in server-side network programming with runtime environments such as Node.js, game development and the creation of desktop and mobile applications.
+C# is intended to be suitable for writing applications  ranging from the very large 
+that use sophisticated operating systems, down to the very small having dedicated functions.

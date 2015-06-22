@@ -1,0 +1,69 @@
+Problem 12. Development Environments
+•	Perform a research (e.g. in Google or Wikipedia) and provide a short list with 
+popular development environments (IDEs) like Visual Studio.
+•	Write in a text file called “list-of-IDEs.txt” at least five IDEs 
+along with 2-3 sentences about each of them. Use English.
+
+1.	Microsoft Visual Studio 
+
+Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft. 
+
+It is used to develop computer programs for Microsoft Windows, as well as web sites, 
+web applications and web services. Visual Studio uses Microsoft software development platforms
+ such as Windows API, Windows Forms, Windows Presentation Foundation, Windows Store and 
+Microsoft Silverlight. It can produce both native code and managed code.
+Visual Studio includes a code editor supporting IntelliSense.  
+The integrated debugger works both as a source-level debugger and a machine-level debugger. 
+Other built-in tools include a forms designer for building GUI applications, web designer, 
+class designer, and database schema designer.  Main IDE to be used for C# programming.
+
+2.	MonoDevelop
+
+MonoDevelop is an open source integrated development environment for Linux, OS X, and Windows. 
+Its primary focus is development of projects that use Mono and .NET frameworks. 
+MonoDevelop integrates features similar to those of NetBeans and Microsoft Visual Studio, 
+such as automatic code completion, source control, a graphical user interface (GUI) and 
+Web designer. MonoDevelop supports Boo, C, C++, C#, CIL, D, F#, Java, Oxygene, Python, Vala, 
+and Visual Basic.NET.
+
+3.	Morfik
+
+Morfik, a set of visual designers, compilers and a Framework combined in an Integrated development
+ environment (IDE) aimed at developing Ajax applications in a high-level language such as Java, 
+C#, BASIC or Object Pascal. Morfik includes visual design tools for Web interfaces, 
+database structure, and queries. It supports the classic client–server model, 
+however like all Ajax applications, the client-side code runs within a browser. 
+The Morfik development tool converts the forms that the user draws into DHTML, 
+compiles the client-logic into JavaScript, and builds the application and 
+database server engines to house the server-side code.
+
+4.	SharpDevelop
+
+SharpDevelop (also styled as #develop) is a free and open source integrated development environment
+  for the .NET Framework, Mono, Gtk# and Glade# platforms. It supports development in C#,
+Visual Basic .NET, Boo, F#, IronPython and IronRuby programming languages.
+
+It was designed as a free and lightweight alternative to Microsoft Visual Studio, 
+and contains an equivalent feature for almost every essential Visual Studio Express feature, 
+including features for project management, code editing, application compiling and debugging. 
+To allow for easy project migration, SharpDevelop works natively with Visual Studio project
+ and code files. It is able to compile applications for .NET Framework 
+version 2.0, 3.0, 3.5, 4.0 and the .NET Compact Framework 2.0 and 3.5.
+
+5.	Turbo C#
+Turbo C# was an Integrated Development Environment (IDE) from Borland that came in two versions, 
+Explorer and Professional. It uses the C# programming language to develop applications 
+for WinForms and ASP.NET.
+
+6.	Eclipse
+Eclipse is an integrated development environment (IDE). It contains a base workspace 
+and an extensible plug-in system for customizing the environment. Written mostly in Java, 
+Eclipse can be used to develop applications. By means of various plug-ins, 
+Eclipse may also be used to develop applications in other programming languages: Ada, ABAP, C, 
+C++, COBOL, Fortran, Haskell, JavaScript, Lasso, Natural, Perl, PHP, Prolog, Python, 
+R, Ruby (including Ruby on Rails framework), and C# as well.
+
+7.	NetBeans
+NetBeans is an integrated development environment (IDE) for developing primarily with Java, 
+but also with other languages, in particular PHP, C/C++, and HTML5. 
+It is also an application platform framework for Java desktop applications and others.
