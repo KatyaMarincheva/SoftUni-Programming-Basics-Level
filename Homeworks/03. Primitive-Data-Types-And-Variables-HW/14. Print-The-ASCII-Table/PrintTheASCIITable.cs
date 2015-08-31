@@ -50,6 +50,6 @@ class PrintTheASCIITable
                 Console.WriteLine("{0} -> {1}", i, character);
             }
         }
-        Console.WriteLine("255 -> nbsp");
+        Console.WriteLine("255 -> non-breaking space");
     }
 }
